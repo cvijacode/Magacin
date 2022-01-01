@@ -3,4 +3,3 @@
 33333|Naziv03|Vrsta03|JedMere03|Cena03
 44444|Naziv04|Vrsta04|JedMere04|Cena04
 55555|Naziv05|Vrsta05|JedMere05|Cena05
-66666|Naziv06|Vrsta06|JedMere06|Cena06
